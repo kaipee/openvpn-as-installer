@@ -1,4 +1,8 @@
-#!/bin/sh
+#!/bin/bash
+
+# Author:	Keith Patton 2014
+# Brief:	A BASH script to automatically download
+# 		and install OpenVPN Access Server
 
 ##################################
 red='\033[01;31m'
